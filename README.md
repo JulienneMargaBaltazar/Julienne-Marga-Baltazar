@@ -3,8 +3,7 @@
 ## 🎓 Education
 - Bachelor of Science in Computer Science  
  New Era University
-
- 2024-Present
+2024-Present
 
 ### 🏅 Certifications
 - [SQL and Relational Databases 101 – Certificate](https://courses.cognitiveclass.ai/certificates/598e0a9a0fad45b8a0736826dc164dfb)
