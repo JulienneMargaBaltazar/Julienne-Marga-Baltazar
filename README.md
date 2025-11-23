@@ -1,7 +1,7 @@
 # It's me, Julienne Marga Baltazar 👋
 - Hello! Thanks for visiting my GitHub profile. I'm currently a BS Computer Science student with a strong interest in technology, development, and building solutions through code. I’m actively learning modern programming tools, strengthening my understanding of databases, and gaining experience through hands-on projects.
 ## 🎓 Education
-Bachelor of Science in Computer Science  
+- Bachelor of Science in Computer Science  
 New Era University  
 2024-Present
 
